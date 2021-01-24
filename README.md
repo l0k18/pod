@@ -17,8 +17,6 @@ Fully integrated all-in-one cli client, full node, wallet server, miner and GUI 
 
 ##### *If you are looking for the legacy 1.2.0 version, go here [https://github.com/marcetin/parallelcoin/tree/master/legacy](https://github.com/marcetin/parallelcoin/tree/master/legacy)
 
-# WARNING: work in progress, will probably break
-
 ## Installation
 
 Straight to business, this is the part I am looking for, so it's here at the top.
