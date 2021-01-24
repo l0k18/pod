@@ -11,6 +11,8 @@ Fully integrated all-in-one cli client, full node, wallet server, miner and GUI 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=p9c_pod&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=p9c_pod)
 [![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/7291)
 
+###### This is a snapshot of the more messy larger version at https://github.com/p9c/pod for my personal portfolio of work. This is partially working, alpha stage development currently.
+
 ##### *If you are looking for the legacy 1.2.0 version, go here [https://github.com/marcetin/parallelcoin/tree/master/legacy](https://github.com/marcetin/parallelcoin/tree/master/legacy)
 
 # WARNING: work in progress, will probably break
